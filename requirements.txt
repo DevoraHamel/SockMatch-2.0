@@ -1,0 +1,7 @@
+streamlit
+openai
+pillow
+numpy
+scikit-learn
+scipy
+python-dotenv
